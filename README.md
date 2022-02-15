@@ -1,2 +1,2 @@
 # PythonClassroom
-Python课堂案例代码
+学习Python的课堂案例代码
